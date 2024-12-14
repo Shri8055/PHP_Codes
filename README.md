@@ -29,3 +29,9 @@ PHP = types of Variables
 
 PHP = types of Operators
 ![image](https://github.com/user-attachments/assets/1925d6c3-f7c2-4c53-897c-a1bd59f4fd6b)
+
+GET Method
+![image](https://github.com/user-attachments/assets/75784f71-ba66-4795-89f5-f865a2e05a12)
+
+POST Method
+![image](https://github.com/user-attachments/assets/2c6a427a-38b0-4d64-9eda-c3996ff3ab84)
