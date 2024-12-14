@@ -1,6 +1,8 @@
 # PHP_Codes
 PHP : Hypertext Preprocessor
 
+PHP codes are saved on xampp/htdocs and xampp Apache server should be started.
+
 PHP is server scripting language, and a powerful tool for making dynamic and interactive web pages.
 
 PHP scripts are executed on server.
