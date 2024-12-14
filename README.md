@@ -20,3 +20,12 @@ PHP can add, delete, modify data in your database.
 PHP can be used to control user-access.
 
 PHP can encrypt data.
+
+PHP = first script
+![image](https://github.com/user-attachments/assets/173a7275-0ae4-4a19-a287-86e7a10d2bcd)
+
+PHP = types of Variables
+![image](https://github.com/user-attachments/assets/c8d209c2-a59d-43df-87b8-a1264d2a52ac)
+
+PHP = types of Operators
+![image](https://github.com/user-attachments/assets/1925d6c3-f7c2-4c53-897c-a1bd59f4fd6b)
