@@ -35,3 +35,5 @@ GET Method
 
 POST Method
 ![image](https://github.com/user-attachments/assets/2c6a427a-38b0-4d64-9eda-c3996ff3ab84)
+
+![image](https://github.com/user-attachments/assets/61aa9f6a-47c5-4c2e-8fff-41553c916ab1)
