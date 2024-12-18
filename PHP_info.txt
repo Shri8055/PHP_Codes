@@ -1,0 +1,51 @@
+PHP : Hypertext preprocessor
+Used as medium between server and user
+PHP can be used in HTML,CSS,JS,ReactJs
+Types of variables in PHP are integer,float,string,boolean
+Types of operators in PHP are arithmatic,increment,decrement etc
+Main purpose of PHP is to make website more interactive related to data
+Math functions is PHP are: 
+    min(),max() = returns max and min values
+    sqrt($value) = returns square root of number
+    abs($value) = returns the absolute(positive) value
+    round($value) = returns the rounded value
+    floor($value) = returns integer value of float
+    ceil($value) = rounds value to next number
+    pow($value, $value) = returns power eg pow(2, 3)=2*2*2=8
+    pi() = returns PI value
+    rand() = returns random values
+Decision making statements = used to handle specific condition
+    if-else, if-ifelse ladder = used to make decisions on multiple conditions
+    switch = multi-condition statements
+Loops = used to iterate for multiple times until consition becomes false
+    while = has only consition
+    for = has all values in one place
+Arrays are used to store multiple data of same datatype, array starts with index 0
+    Array functions : array_push = adds new elements to last of array
+                      array_pop = deletes last element of Array
+                      array_shift = deletes first element of array
+                      array_reverse = reverse the array but returns new reversed array
+Associative Arrays are types of array in which data is stored in key value pair
+isset = used to check variable is declared or not
+empty = used to check variable holds any value
+function = used to write same code multiple times, a bunch of code is written in function and called whenever needed, also passed arguments when needed
+Built-in string functions = strtolower =  lowers string to lowercase
+                            strtoupper = string to uppercase 
+                            trim = cuts any void space
+                            str_pad = pads string to given amount, str_pad($str_var, 10)
+                            str_replace = replaces characters as given arguments,consider $phone=12-23-34 str_replace("-","",$phone), will replace - with "" empty space
+                            strrev = reverses string
+                            str_shuffle = shuffle the string
+                            strcmp = compares string to other and returns true,false
+                            strlen = total length of characters
+                            strpos = returns index position of given character, $name = "shri", strpos($name, "i")=3
+                            substr = returns sun string from main string, $name = "shrinivas", sunstr($name,0,3)=shri
+                            explode = character is converted to array, explode(" ",$name)
+                            implode = array is converted to character, implode(" ",$name)
+Filter and Sanitize input for getting valid inputs and for security purpose, we are using this in form handling
+when we declare variable that is related to form we use $username = filter_input(INPUT_POST //this depends on type of method ur using GET/POST, "username" //name given to input, FILTER_SANATIZE_SPECIAL_CHARS)
+                number that is related to form we use $age = filter_input(INPUT_POST,"age",FILTER_SANATIZE_NUMBER_INT)
+                email that is related to form we use $email = filter_input(INPUT_POST,"email",FILTER_SANATIZE_EMAIL)
+To validate inputs we are using $age=filter_input(INPUT_POST,"age",FILTER_VALIDATE_INT)
+                                $email=filter_input(INPUT_POST,"email",FILTER_VALIDATE_EMAIL)
+So what is difference between sanitize and validate, sanitize removes unnecessary characters from input,validate checks that input is valid or not
