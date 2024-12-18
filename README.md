@@ -37,3 +37,7 @@ POST Method
 ![image](https://github.com/user-attachments/assets/2c6a427a-38b0-4d64-9eda-c3996ff3ab84)
 
 ![image](https://github.com/user-attachments/assets/61aa9f6a-47c5-4c2e-8fff-41553c916ab1)
+
+Sessions
+![image](https://github.com/user-attachments/assets/3649c1f2-ccf1-4e6d-83a5-4576f6fa2408)
+![image](https://github.com/user-attachments/assets/500a68b6-1dad-43af-a1f2-4abceee1b15a)
